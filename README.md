@@ -114,7 +114,7 @@ Bu matris sayesinde:
 
 ---
 
-## ▶️ Projeyi Çalıştırma
+## Projeyi Çalıştırma
 
 Projeyi çalıştırmak için aşağıdaki adımlar izlenmelidir:
 
@@ -125,7 +125,7 @@ jupyter notebook
 
 ---
 
-## 🎯 Projenin Amacı
+## Projenin Amacı
 
 Bu projenin temel amaçları aşağıda sıralanmıştır:
 
@@ -150,7 +150,7 @@ Bu projenin temel amaçları aşağıda sıralanmıştır:
 
 ---
 
-## 🏆 Genel Değerlendirme
+## Genel Değerlendirme
 
 Bu proje kapsamında geliştirilen CNN modeli, Fashion MNIST veri seti üzerinde
 **yüksek doğruluk oranı** elde etmiş ve görüntü sınıflandırma görevini başarıyla
