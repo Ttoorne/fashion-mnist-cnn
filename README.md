@@ -56,7 +56,7 @@ kullanılarak **10 epoch** boyunca eğitilmiştir.
 Eğitim tamamlandıktan sonra model, daha önce hiç görülmemiş test verileri üzerinde
 değerlendirilmiştir.
 
-### 🔍 Test Sonuçları
+### Test Sonuçları
 
 - **Test Kayıp (Loss):** 0.2387
 - **Test Doğruluğu (Accuracy):** **%91.28**
@@ -103,7 +103,7 @@ Bu matris sayesinde:
 
 ---
 
-## ⚙️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - Python
 - TensorFlow / Keras
